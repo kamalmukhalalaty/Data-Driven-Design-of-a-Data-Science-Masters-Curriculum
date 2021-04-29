@@ -24,12 +24,11 @@ Based on this, the clusters shown on the dendrogram were derived.
 
 <img src="https://github.com/kamalmukhalalaty/Data-Driven-Design-of-a-Data-Science-Masters-Curriculum/blob/main/Images/dendrogram_1.png">
 
-due to the large amount of terms analysed the dendrogram could be better interpreted by
+Due to the large amount of terms analysed the dendrogram could be better interpreted by
 Zeroing in on the most popular languages and software platforms, 
 
 
 <img src="https://github.com/kamalmukhalalaty/Data-Driven-Design-of-a-Data-Science-Masters-Curriculum/blob/main/Images/dendrogram_2.png">
-
 
 Here we see 6 clear clusters and it is nice to see that the clusters make sense. We also see languages like r and c tying into larger clusters that contain more specific skills. 
 
