@@ -1,6 +1,7 @@
 # Data-Driven-Design-of-a-Data-Science-Masters-Curriculum
 
-My personal contribution to the overall project 
+My personal contribution to the overall project:
+
 - Web scraped linkedin Data Science Job Postings 
 - Exploritory Data Analysis was performed on 
   - Data Camp scraped & Coursera scraped data (Scraping done by my colleagues)
